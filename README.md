@@ -1,4 +1,4 @@
-# LeetLog
+# Leet Log
 
 A personal collection of my LeetCode solutions in C++, focused on consistent practice and improving problem-solving skills.
 
